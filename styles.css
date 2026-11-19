@@ -51,3 +51,7 @@
 .compactExtra span:last-child{overflow-wrap:anywhere;white-space:pre-wrap}
 .itemNotes{margin-top:9px;padding-top:8px;border-top:1px solid var(--line);font-size:12px;color:var(--sub);white-space:pre-wrap;overflow-wrap:anywhere}
 @media(max-width:760px){.compactExtra{grid-column:1/-1;padding-left:0}.wardrobeSelection{font-size:12px}}
+
+/* V11 规格参数与备注分离 */
+.itemDetailRule{border:0;border-top:1px solid var(--line);margin:7px 0}
+.compactExtra span{white-space:pre-wrap;overflow-wrap:anywhere}
