@@ -1,0 +1,10 @@
+{
+  "name": "家物簿 · 家庭物品管理",
+  "short_name": "家物簿",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f1e8",
+  "theme_color": "#24352d",
+  "description": "本地优先的家庭物品生命周期、消费控制与习惯打卡应用",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
